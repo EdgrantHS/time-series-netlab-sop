@@ -8,9 +8,9 @@ This directory contains the syllabus for the Time Series Analysis project. The s
   - [Table of Contents](#table-of-contents)
   - [Module Overview](#module-overview)
     - [Module 1: Data Exploration and Visualization](#module-1-data-exploration-and-visualization)
-    - [Module 2: Classical Time Series Analysis](#module-2-classical-time-series-analysis)
-    - [Module 3: Machine Learning for Time Series](#module-3-machine-learning-for-time-series)
-    - [Module 4: LSTM and Deep Learning](#module-4-lstm-and-deep-learning)
+    - [Module 2: Classical Time Series Analysis and Introduction to NumPy, Pandas, and Python Notebook](#module-2-classical-time-series-analysis-and-introduction-to-numpy-pandas-and-python-notebook)
+    - [Module 3: Machine Learning for Time Series and Introduction to TensorFlow or Keras](#module-3-machine-learning-for-time-series-and-introduction-to-tensorflow-or-keras)
+    - [Module 4: LSTM, GRU, and Deep Learning](#module-4-lstm-gru-and-deep-learning)
 
 ## Module Overview
 
@@ -26,8 +26,8 @@ This module covers the basics of data exploration and visualization techniques t
 - Correlation and covariance
 - Data visualization libraries (e.g., Matplotlib, Seaborn)
 
-### Module 2: Classical Time Series Analysis
+### Module 2: Classical Time Series Analysis and Introduction to NumPy, Pandas, and Python Notebook
 
-### Module 3: Machine Learning for Time Series
+### Module 3: Machine Learning for Time Series and Introduction to TensorFlow or Keras
 
-### Module 4: LSTM and Deep Learning
+### Module 4: LSTM, GRU, and Deep Learning

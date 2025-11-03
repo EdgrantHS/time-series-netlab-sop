@@ -1,4 +1,4 @@
-# Topic 5: Stationarity and Differencing
+<!-- # Topic 5: Stationarity and Differencing
 
 Stationarity is a fundamental concept in time series analysis that refers to a time series whose statistical properties (mean, variance, and autocorrelation) do not change over time. Many time series models assume stationarity, making it crucial to test for and achieve stationarity through techniques like differencing before applying these models.
 
@@ -185,4 +185,4 @@ Students should demonstrate:
 - [ ] Understanding of when and why to transform data
 - [ ] Recognition of over-differencing problems
 - [ ] Clear communication of test results and their implications
-- [ ] Practical understanding of stationarity in financial contexts
+- [ ] Practical understanding of stationarity in financial contexts -->

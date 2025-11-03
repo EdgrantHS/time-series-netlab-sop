@@ -7,16 +7,30 @@ This directory contains the syllabus for the Time Series Analysis project, guidi
 - [Sylabus](#sylabus)
   - [Table of Contents](#table-of-contents)
   - [Module Overview](#module-overview)
-    - [Module 1: Data Exploration, Visualization, and Introduction to Python Notebooks](#module-1-data-exploration-visualization-and-introduction-to-python-notebooks)
+    - [Module 1: Machine Learning Fundamentals](#module-1-machine-learning-fundamentals)
+    - [Module 2: Data Exploration, Visualization, and Introduction to Python Notebooks](#module-2-data-exploration-visualization-and-introduction-to-python-notebooks)
     - [Module 2: Classical Time Series Analysis and Introduction to NumPy and Pandas](#module-2-classical-time-series-analysis-and-introduction-to-numpy-and-pandas)
-    - [Module 3: Machine Learning for Time Series and Introduction to TensorFlow or Keras](#module-3-machine-learning-for-time-series-and-introduction-to-tensorflow-or-keras)
     - [Module 4: LSTM, GRU, and Deep Learning](#module-4-lstm-gru-and-deep-learning)
+- [Week 3](#week-3)
 
 ## Module Overview
 
 Each module focuses on specific aspects of time series analysis and machine learning.
 
-### Module 1: Data Exploration, Visualization, and Introduction to Python Notebooks
+### Module 1: Machine Learning Fundamentals
+
+Bridges traditional time series analysis with machine learning approaches, introducing modern ML frameworks.
+
+*What mentees should be able to DO:*
+- Set up and use Jupyter notebooks
+- Understand AI and ML background concepts:
+  - Regression techniques
+  - Classification methods
+  - Clustering algorithms
+- Perform data preprocessing and cleaning
+- Build basic neural networks
+
+### Module 2: Data Exploration, Visualization, and Introduction to Python Notebooks
 
 Covers basic data exploration and visualization techniques essential for understanding time series data. Topics include:
 
@@ -54,15 +68,6 @@ Introduces classical time series forecasting methods and strengthens Python skil
 - Generate forecasts with confidence intervals
 - Handle missing data and outliers appropriately
 
-### Module 3: Machine Learning for Time Series and Introduction to TensorFlow or Keras
-
-Bridges traditional time series analysis with machine learning approaches, introducing modern ML frameworks.
-
-*What mentees should be able to DO:*
-- Transform time series problems into supervised learning.
-- Apply ML algorithms (Random Forest, XGBoost, SVR) to time series
-- Build basic neural networks using TensorFlow/Keras
-
 ### Module 4: LSTM, GRU, and Deep Learning
 
 Advanced module focusing on deep learning approaches designed for sequential data and time series forecasting.
@@ -72,3 +77,8 @@ Advanced module focusing on deep learning approaches designed for sequential dat
 - Implement attention mechanisms for improved interpretability
 - Tune hyperparameters for deep learning models
 - Handle overfitting using dropout, early stopping, and regularization
+
+# Week 3
+
+- rolling Forecast Origin: error metrics
+-

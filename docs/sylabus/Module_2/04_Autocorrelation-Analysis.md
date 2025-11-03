@@ -1,4 +1,4 @@
-# Topic 4: Autocorrelation Analysis
+<!-- # Topic 4: Autocorrelation Analysis
 
 Autocorrelation analysis is a fundamental technique in time series analysis that measures how values in a time series are related to their own past values at different time lags. Understanding autocorrelation patterns helps identify the underlying structure of time series data and is crucial for model selection and forecasting.
 
@@ -166,4 +166,4 @@ Students should demonstrate:
 - [ ] Ability to identify seasonal patterns through correlation analysis
 - [ ] Application of Ljung-Box test and other diagnostic tests
 - [ ] Clear communication of findings and business implications
-- [ ] Recognition of different time series process signatures in correlograms
+- [ ] Recognition of different time series process signatures in correlograms -->
